@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DeshLine News</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>DeshLine News</h1>
+</header>
+
+<nav>
+    Home | News | Contact
+</nav>
+
+<section>
+    <h2>Breaking News</h2>
+    <p>এখানে তোমার নিউজ লেখা হবে</p>
+</section>
+
+<footer>
+    <p>© 2026 DeshLine News</p>
+</footer>
+
+</body>
+</html>
