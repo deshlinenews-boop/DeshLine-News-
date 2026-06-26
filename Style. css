@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DeshLine News</title>
+
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f2f2f2;
+}
+
+header{
+background:#c40000;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#111;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:10px;
+font-weight:bold;
+}
+
+.breaking{
+background:red;
+color:white;
+padding:10px;
+font-weight:bold;
+}
+
+.container{
+padding:15px;
+}
+
+.news{
+background:white;
+padding:15px;
+margin-bottom:15px;
+border-radius:8px;
+box-shadow:0 0 8px rgba(0,0,0,.15);
+}
+
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>DeshLine News</h1>
+<p>সত্যের পথে, দেশের সাথে</p>
+</header>
+
+<nav>
+<a href="#">হোম</a>
+<a href="#">জাতীয়</a>
+<a href="#">রাজনীতি</a>
+<a href="#">খেলাধুলা</a>
+<a href="#">বিনোদন</a>
+<a href="#">যোগাযোগ</a>
+</nav>
+
+<div class="breaking">
+🔥 Breaking News : সর্বশেষ সংবাদ সবার আগে DeshLine News-এ
+</div>
+
+<div class="container">
+
+<div class="news">
+<h2>প্রধান সংবাদ</h2>
+<p>এখানে তোমার প্রথম সংবাদ লিখবে।</p>
+</div>
+
+<div class="news">
+<h2>স্থানীয় সংবাদ</h2>
+<p>নেত্রকোনা, পূর্বধলা ও সারা বাংলাদেশের খবর এখানে প্রকাশ হবে।</p>
+</div>
+
+<div class="news">
+<h2>ভিডিও নিউজ</h2>
+<p>এখানে YouTube ভিডিও যুক্ত করা যাবে।</p>
+</div>
+
+</div>
+
+<footer>
+© 2026 DeshLine News | All Rights Reserved
+</footer>
+
+</body>
+</html>
